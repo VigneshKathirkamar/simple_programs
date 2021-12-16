@@ -8,4 +8,5 @@ pip3 install -r requirements.txt
 ## Step 2
 
 python3 <name_of_the_program>
-Eg: mtcnn_app.py
+<br>
+Eg:python3 mtcnn_app.py
