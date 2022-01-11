@@ -10,3 +10,7 @@ pip3 install -r requirements.txt
 python3 <name_of_the_program>
 <br>
 Eg:python3 mtcnn_app.py
+
+<hr>
+face_capture.py captures and stores video only when a face is dectected on the video
+
